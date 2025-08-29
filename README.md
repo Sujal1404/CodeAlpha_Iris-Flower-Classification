@@ -3,7 +3,7 @@ The Iris Flower Classification project is a popular beginner-level data science 
 
 🌸 Project Title:
 
-Iris Flower Classification using Machine Learning
+Iris Flower Classification using Data Science
 
 📌 Objective:
 
